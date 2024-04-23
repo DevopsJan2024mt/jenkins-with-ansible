@@ -6,5 +6,5 @@
 #[tomcatservers]
 #Host1
 172.31.21.244  ansible_user=ec2-user 
-
+172.31.90.165  ansible_user=ec2-user
 
